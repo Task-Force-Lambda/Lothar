@@ -1,0 +1,43 @@
+{
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "devDependencies": {
+    "style-loader": "^1.0.0",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.9"
+  },
+  "dependencies": {
+    "jquery": "3.4.1",
+    "css-loader": "3.2.0",
+    "style-loader": "1.0.0"
+  },
+  "name": "lothars-edge",
+  "description": "\"# Lothar\"",
+  "version": "0.0.1",
+  "main": "./lib/lothar.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skywarth/Lothar.git"
+  },
+  "keywords": [
+    "placeholder",
+    "ui",
+    "ghost",
+    "ghosting",
+    "skeleton",
+    "ui",
+    "interface",
+    "items",
+    "placeholder"
+  ],
+  "author": "Yiğit Kürşad Ersoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skywarth/Lothar/issues"
+  },
+  "homepage": "https://github.com/skywarth/Lothar#read
