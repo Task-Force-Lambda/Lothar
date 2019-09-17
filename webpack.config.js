@@ -4,7 +4,7 @@ module.exports = {
     
   }, 
   output: {
-    library:'Lothar',
+    
     path:__dirname+'/lib',
     filename: 'lothar.js'
 

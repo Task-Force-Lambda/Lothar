@@ -20,6 +20,6 @@ export default class Lothar{
 
     test(){
         alert("Ready to do some ghostin' ! ");
-        document.getElementsByTagName("body").innerHtml("<h1 class='lotharsEdgeTester'>Lothar's Edge</h1>");
+        document.getElementsByTagName("body")[0].innerHTML="<h1 class='lotharsEdgeTester'>Lothar's Edge</h1>";
     }
 }

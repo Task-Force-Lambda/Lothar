@@ -15,8 +15,8 @@
   },
   "name": "lothars-edge",
   "description": "\"# Lothar\"",
-  "version": "0.0.1",
-  "main": "./lib/lothar.js",
+  "version": "0.0.3",
+  "main": "./src/lothar.js",
   "directories": {
     "lib": "lib"
   },
@@ -40,4 +40,5 @@
   "bugs": {
     "url": "https://github.com/skywarth/Lothar/issues"
   },
-  "homepage": "https://github.com/skywarth/Lothar#read
+  "homepage": "https://github.com/skywarth/Lothar#readme"
+}
